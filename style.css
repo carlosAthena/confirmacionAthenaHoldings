@@ -24,7 +24,7 @@
 .form {
   position: relative;
   width: 350px;
-  height: 500px;
+  height: 560px;
   border-radius: 20px;
   padding: 40px;
   margin: 70px;
@@ -319,7 +319,7 @@ ul {
   input {
     background: #ecf0f3;
     padding: 20px;
-    padding-left: 35px;
+    padding-left: 20px;
     height: 10px;
     font-size: 10px;
     border-radius: 50px;
